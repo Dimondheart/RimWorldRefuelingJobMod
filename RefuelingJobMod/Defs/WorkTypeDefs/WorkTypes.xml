@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WorkTypeDefs>
+
+  <WorkTypeDef>
+    <defName>Refueling</defName>
+    <labelShort>Refuel</labelShort>
+    <pawnLabel>Refueler</pawnLabel>
+    <gerundLabel>Refueling</gerundLabel>
+    <description>Refuel things like torches and generators.</description>
+    <verb>Refuel</verb>
+    <naturalPriority>1140</naturalPriority>
+    <alwaysStartActive>false</alwaysStartActive>
+    <requireCapableColonist>true</requireCapableColonist>
+  </WorkTypeDef>
+  
+</WorkTypeDefs>

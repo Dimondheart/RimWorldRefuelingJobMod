@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>[A17] Refueling Job Mod</name>
+  <author>Bryan Bettis</author>
+  <description>A small mod which creates a separate job for refueling things. It is placed right below Flick priority-wise. Haulers can still refuel as needed.</description>
+  <targetVersion>0.17.1557</targetVersion>
+</ModMetaData>
