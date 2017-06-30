@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Refueling.labelShort>Refuel</Refueling.labelShort>
+    <Refueling.pawnLabel>Refueler</Refueling.pawnLabel>
+    <Refueling.gerundLabel>Refueling</Refueling.gerundLabel>
+    <Refueling.description>Refuel things like torches and generators.</Refueling.description>
+    <Refueling.verb>Refuel</Refueling.verb>
+
+</LanguageData>

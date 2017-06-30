@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RefuelRefuel.label>refuel fuelable buildings</RefuelRefuel.label>
+    <RefuelRefuel.verb>refuel</RefuelRefuel.verb>
+    <RefuelRefuel.gerund>refueling</RefuelRefuel.gerund>
+
+</LanguageData>
